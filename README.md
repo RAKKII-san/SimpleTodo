@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Learning how to navigate Android Studio was a huge challenge to building the app.
 ## License
 
     Copyright 2021 Sean Chuang
