@@ -2,7 +2,7 @@
 
 **SimpleTodo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Sean Chuang**
+Submitted by: **RAKKII-san**
 
 Time spent: **4** hours spent in total
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 Learning how to navigate Android Studio was a huge challenge to building the app.
 ## License
 
-    Copyright 2021 Sean Chuang
+    Copyright 2021 RAKKII-san
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
